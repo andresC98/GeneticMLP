@@ -1,5 +1,5 @@
 # GeneticMLP
-Implementation of a Multilayer Perceptron in Keras using a Genetic Algorithm (PonyGE2 Grammatical Evolution)
+Implementation of a simple Multilayer Perceptron in Keras using PonyGE2 Genetic Algorithm.
 
 The code of interest (my implementation) is the following:
 
